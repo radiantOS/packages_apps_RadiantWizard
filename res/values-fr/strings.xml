@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Suivant</string>
+    <string name="back">Retour</string>
+    <string name="skip">Skip</string>
+    <string name="finish">Finish wizard</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Welcome to Radiant</string>
+    <string name="sw_f_start">Start</string>
+    <string name="sw_f_emerg">Emergency call</string>
+    <string name="sw_f_acces">Vision settings</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Welcome to Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant is custom ROM utilising HarmonyOS Sans Font, We\'re glad to have you with us. You can change language or configure accesibility options via the icons above. Here are some points we wish to inform you about: </string>
+    <string name="sw_is_tg_summary">You can join our Telegram channel @ProjectRadiant for ROM and build update posts alongside screenshots and teasers!</string>
+    <string name="sw_is_bug_title">Bug reports</string>
+    <string name="sw_is_bug_summary">You can report source/ROM side bugs in our ROM chat at @ProjectRadiantChat make sure to attach logcats!</string>
+    <string name="sw_is_tr_title">Translations</string>
+    <string name="sw_is_tr_summary">You can help us with localisation by checking the crowdin link in our chat\'s notes and translating strings in your language.</string>
+    <string name="sw_is_help_title">We need you!</string>
+    <string name="sw_is_help_summary">We do not take donations, most of us are still in school which is why we need more people. You can help people with issues in our chats or even join us to maintain or develop the ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">How would you like to get around?</string>
+    <string name="sw_ng_gestures">Gestures</string>
+    <string name="sw_ng_three">3 button</string>
+    <string name="sw_ng_gtut_title">Gesture tutorial</string>
+    <string name="sw_ng_gtut_summary">Start a tutorial for navigation gestures after this activity</string>
+</resources>

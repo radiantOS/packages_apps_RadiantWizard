@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Далее</string>
+    <string name="back">Назад</string>
+    <string name="skip">Пропустить</string>
+    <string name="finish">Окончить настройку</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Добро пожаловать в Radiant</string>
+    <string name="sw_f_start">Начать</string>
+    <string name="sw_f_emerg">Экстренный вызов</string>
+    <string name="sw_f_acces">Настройки зрения</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Добро пожаловать в Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant - это кастомная прошивка, использующая шрифт HarmonyOS Sans, рады видеть вас. Вы можете сменить язык, или настроить специальные возможности с помощью иконок выше. Вот пару вещей, о которых мы хотим сообщить вам: </string>
+    <string name="sw_is_tg_summary">Вы можете подписаться на наш Telegram-канал @ProjectRadiant для актуальных новостей о прошивке и обновлении сборок, а так же скриншотов и тизеров!</string>
+    <string name="sw_is_bug_title">Сообщения об ошибках</string>
+    <string name="sw_is_bug_summary">Вы можете сообщить о багах исходников в нашем чате прошивки @ProjectRadiantChat, не забудьте приложить лог!</string>
+    <string name="sw_is_tr_title">Переводы</string>
+    <string name="sw_is_tr_summary">Вы можете помочь нам с переводом, перейдя по ссылке в заметках нашего чата и переводя строки на ваш язык.</string>
+    <string name="sw_is_help_title">Мы нуждаемся в вас!</string>
+    <string name="sw_is_help_summary">Мы не принимаем пожертвований, большинство из нас все еще учатся, поэтому нам нужно больше людей. Вы можете помочь людям с проблемами в наших чатах или даже присоединиться к нам для поддержки или развития ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Как бы вы хотели выходить?</string>
+    <string name="sw_ng_gestures">Жесты</string>
+    <string name="sw_ng_three">3 кнопки</string>
+    <string name="sw_ng_gtut_title">Обучение жестам</string>
+    <string name="sw_ng_gtut_summary">Начать обучение жестам после этого действия</string>
+</resources>

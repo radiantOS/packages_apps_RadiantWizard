@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Dalej</string>
+    <string name="back">Wróć</string>
+    <string name="skip">Pomiń</string>
+    <string name="finish">Zakończ Konfigurację</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Witamy w Radiant</string>
+    <string name="sw_f_start">Rozpocznij</string>
+    <string name="sw_f_emerg">Połączenie Alarmowe</string>
+    <string name="sw_f_acces">Ustawienia Widzenia</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Witamy w Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant to custom ROM wykorzystujący czcionkę HarmonyOS Sans. Cieszymy się, że jesteś z nami. Możesz zmienić język lub skonfigurować opcje ułatwień dostępu za pomocą powyższych ikon. Oto kilka punktów, o których chcemy cię poinformować: </string>
+    <string name="sw_is_tg_summary">Możesz dołączyć nasz kanał Telegram @ProjectRadiant na ROM i aktualizacje buildów wraz z zrzutami ekranu i zwiastunami!</string>
+    <string name="sw_is_bug_title">Zgłaszanie błędów</string>
+    <string name="sw_is_bug_summary">Możesz zgłaszać błędy źródła/ROM na naszym czacie na @ProjectRadiantChat, pamiętaj o dołączeniu logcat!</string>
+    <string name="sw_is_tr_title">Tłumaczenia</string>
+    <string name="sw_is_tr_summary">Możesz nam pomóc w lokalizowaniu sprawdzając link crowdin w notatkach na naszym czacie i tłumacząc napisy na swój język.</string>
+    <string name="sw_is_help_title">Potrzebujemy cię!</string>
+    <string name="sw_is_help_summary">Nie przyjmujemy darowizn, większość z nas jeszcze chodzi do szkoły, dlatego potrzebujemy więcej ludzi. Możesz pomóc ludziom z problemami na naszych czatach, a nawet dołączyć do nas, aby utrzymać lub rozwijać ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Jak chciałbyś się poruszać?</string>
+    <string name="sw_ng_gestures">Gesty</string>
+    <string name="sw_ng_three">3 przyciski</string>
+    <string name="sw_ng_gtut_title">Samouczek gestów</string>
+    <string name="sw_ng_gtut_summary">Po wykonaniu tej czynności uruchom samouczek dotyczący gestów nawigacyjnych</string>
+</resources>

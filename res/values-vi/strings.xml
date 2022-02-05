@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Tiếp</string>
+    <string name="back">Trở về</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="finish">Hoàn thành quá trình</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Chào mừng bạn đến với Radiant</string>
+    <string name="sw_f_start">Bắt đầu</string>
+    <string name="sw_f_emerg">Cuộc gọi khẩn cấp</string>
+    <string name="sw_f_acces">Cài đặt tầm nhìn</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Chào mừng bạn đến với Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant là 1 custom ROM sử dụng font HarmonyOS Sans, chúng tôi rất hân hạnh khi được đồng hành cùng bạn. Bạn có thể thay đổi ngôn ngữ hoặc chỉnh cài đặt tiếp cận bằng những icon ở trên. Sau đây là những điều chúng tôi thông báo tới bạn: </string>
+    <string name="sw_is_tg_summary">Bạn có thể tham gia kênh Telegram của chúng tôi tại @ProjectRadiant để được nhận những bản cập nhật, những ảnh chụp màn hình và những teaser!</string>
+    <string name="sw_is_bug_title">Báo cáo lỗi</string>
+    <string name="sw_is_bug_summary">Bạn có thể báo cáo lỗi của bên ROM tại chat ROM của chúng tôi, @ProjectRadiantChat, nhưng hãy nhớ gắn kèm logcat!</string>
+    <string name="sw_is_tr_title">Bản dịch</string>
+    <string name="sw_is_tr_summary">Bạn có thế giúp chúng tôi địa phương hoá bằng cách check link Crowdin ở notes tại chat ROM và dịch sang ngôn ngữ của bạn.</string>
+    <string name="sw_is_help_title">Chúng tôi cần bạn!</string>
+    <string name="sw_is_help_summary">Chúng tôi không nhận donate, hầu hết chúng tôi vẫn đang là học sinh/sinh viên nên chúng tôi cần thêm người. Bạn có thể giúp mọi người với những lỗi hoặc có thể tham gia chúng tôi trong việc phát triển ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Bạn muốn sử dụng kiểu điều hướng nào?</string>
+    <string name="sw_ng_gestures">Điều hướng</string>
+    <string name="sw_ng_three">3 nút</string>
+    <string name="sw_ng_gtut_title">Hướng dẫn điều hướng</string>
+    <string name="sw_ng_gtut_summary">Hướng dẫn điều hướng sau hành động này</string>
+</resources>

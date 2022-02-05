@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_type">glif_v3_light</string>
+    <string name="wizard_script_uri" translatable="false">android.resource://com.radiant.SetupWizard/raw/wizard_script</string>
+    <string name="wizard_script_deferred_uri" translatable="false">android.resource://com.radiant.SetupWizard/raw/wizard_script_user</string>
+    <string name="wizard_script_user_uri" translatable="false">android.resource://com.radiant.SetupWizard/raw/wizard_script_user</string>
+</resources>

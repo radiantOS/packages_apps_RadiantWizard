@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Weiter</string>
+    <string name="back">Zurück</string>
+    <string name="skip">Überspringen</string>
+    <string name="finish">Setup beenden</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Willkommen bei Radiant</string>
+    <string name="sw_f_start">Starten</string>
+    <string name="sw_f_emerg">Notruf</string>
+    <string name="sw_f_acces">Sicht-Einstellungen</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Willkommen bei Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant ist eine benutzerdefinierte ROM mit HarmonyOS Sans Font, wir freuen uns dich bei uns zu haben. Du kannst mit hilfe der Icons oben die Sprache ändern oder die Bedienungshilfen konfigurieren. Hier sind ein paar Punkte über die wir dich informieren möchten: </string>
+    <string name="sw_is_tg_summary">Du kannst unserem Telegram Channel @ProjectRadiant für ROM und neue Releases oder auch Screenshots und Teasern beitreten!</string>
+    <string name="sw_is_bug_title">Fehlermeldungen</string>
+    <string name="sw_is_bug_summary">Du kannst Quellen/Rom-seitige Fehler in unseren ROM chat unter @ProjectRadiantChat melden. Bitte füge logcats hinzu!</string>
+    <string name="sw_is_tr_title">Übersetzungen</string>
+    <string name="sw_is_tr_summary">Du kannst uns bei der Übersetzung helfen, indem du den Crowdin-Link in unseren Chat-Notizen liest und die \"Source Strings\" in deine Sprache übersetzt.</string>
+    <string name="sw_is_help_title">Wir brauchen dich!</string>
+    <string name="sw_is_help_summary">Wir akzeptieren keine Spenden, die meisten von uns gehen noch in die Schule, weshalb wir mit Leute brauchen. Du kannst Leuten in unseren Chats mit Problemen helfen oder uns beitreten die Rom zu pflegen oder auch zu entwickeln.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Wie möchtest du dich fortbewegen?</string>
+    <string name="sw_ng_gestures">Gesten</string>
+    <string name="sw_ng_three">3 Knöpfe</string>
+    <string name="sw_ng_gtut_title">Gesten-Tutorial</string>
+    <string name="sw_ng_gtut_summary">Starten ein Navigationsgesten-Tutorial nach dem nächsten Schritt</string>
+</resources>

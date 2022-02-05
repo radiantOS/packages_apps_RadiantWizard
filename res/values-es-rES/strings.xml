@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Siguiente</string>
+    <string name="back">Atrás</string>
+    <string name="skip">Saltar</string>
+    <string name="finish">Finalizar configuración</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Bienvenido a Radiant</string>
+    <string name="sw_f_start">Iniciar</string>
+    <string name="sw_f_emerg">Llamada de emergencia</string>
+    <string name="sw_f_acces">Ajustes de visión</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">¡Bienvenido a Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant es una ROM personalizada que utiliza la fuente HarmonyOS Sans. Estamos encantados de tenerte con nosotros. Puede cambiar el idioma o configurar las opciones de accesibilidad a través de los iconos de arriba. Aquí hay algunos puntos sobre los que deseamos informarle: </string>
+    <string name="sw_is_tg_summary">¡Puedes unirte a nuestro canal de Telegram @ProjectRadiant para obtener actualizaciones de la ROM junto con capturas de pantalla y avances!</string>
+    <string name="sw_is_bug_title">Reporte de errores</string>
+    <string name="sw_is_bug_summary">Puede informar errores del lado de la fuente / ROM en nuestro chat de ROM en @ProjectRadiantChat, ¡asegúrese de adjuntar logcats!</string>
+    <string name="sw_is_tr_title">Traducciones</string>
+    <string name="sw_is_tr_summary">Puede ayudarnos con la localización revisando el enlace de crowdin en las notas de nuestro chat y traduciendo las cadenas en su idioma.</string>
+    <string name="sw_is_help_title">¡Te necesitamos!</string>
+    <string name="sw_is_help_summary">No aceptamos donaciones, la mayoría de nosotros todavía estamos en la escuela, por eso necesitamos más personas. Puede ayudar a las personas con problemas en nuestros chats o incluso unirse a nosotros para mantener o desarrollar la ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Navegación por gestos?</string>
+    <string name="sw_ng_gestures">Gestos</string>
+    <string name="sw_ng_three">3 botones</string>
+    <string name="sw_ng_gtut_title">Tutorial para los gestos</string>
+    <string name="sw_ng_gtut_summary">Inicia el tutorial para la navegación por gestos luego de esta actividad</string>
+</resources>

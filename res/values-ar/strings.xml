@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">التالي</string>
+    <string name="back">الخلف</string>
+    <string name="skip">تخطي</string>
+    <string name="finish">إنهاء الإعداد</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">مرحبًا بك الى راديانت</string>
+    <string name="sw_f_start">البدء</string>
+    <string name="sw_f_emerg">مكالمة طوارئ</string>
+    <string name="sw_f_acces">إعدادات الرؤية</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">مرحبًا بك إلى راديانت!</string>
+    <string name="sw_is_top_summary">Project Radiantعبارة عن روم معدلة تستخدم HarmonyOS Sans Font ، ويسعدنا وجودك معنا. يمكنك تغيير اللغة أو تكوين خيارات إمكانية الوصول عبر الرموز أعلاه. فيما يلي بعض النقاط التي نود إطلاعكم عليها: </string>
+    <string name="sw_is_tg_summary">يمكنك الانضمام إلى قناة Telegram الخاصة بنا ProjectRadiant@ لـ ROM و متابعة التحديثات مع لقطات الشاشة والإعلانات التشويقية!</string>
+    <string name="sw_is_bug_title">الابلاغ عن خلل</string>
+    <string name="sw_is_bug_summary">You can report source/ROM side bugs in our ROM chat at @ProjectRadiantChat make sure to attach logcats!</string>
+    <string name="sw_is_tr_title">Translations</string>
+    <string name="sw_is_tr_summary">You can help us with localisation by checking the crowdin link in our chat\'s notes and translating strings in your language.</string>
+    <string name="sw_is_help_title">We need you!</string>
+    <string name="sw_is_help_summary">We do not take donations, most of us are still in school which is why we need more people. You can help people with issues in our chats or even join us to maintain or develop the ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">How would you like to get around?</string>
+    <string name="sw_ng_gestures">Gestures</string>
+    <string name="sw_ng_three">3 button</string>
+    <string name="sw_ng_gtut_title">Gesture tutorial</string>
+    <string name="sw_ng_gtut_summary">Start a tutorial for navigation gestures after this activity</string>
+</resources>

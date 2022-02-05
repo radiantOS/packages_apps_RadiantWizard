@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Další</string>
+    <string name="back">Zpět</string>
+    <string name="skip">Přeskočit</string>
+    <string name="finish">Hotovo!</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Vítá vás Radiant</string>
+    <string name="sw_f_start">Začít</string>
+    <string name="sw_f_emerg">Nouzové volání</string>
+    <string name="sw_f_acces">Nastavení vidění</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Vítá vás Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant je custom ROM která využívá HarmonyOS Sans Font, Těší nás že jste s námi. Můžete změnit nastavení jazyku nebo možnosti zjednodušeného přístupu pomocí ikon výše. Tady jsou některé informace které by jsme vám rádi sdělili: </string>
+    <string name="sw_is_tg_summary">Můžete navštívit náš kanál na Telegramu @ProjectRadiant pro informace o ROM a novinky a také snímky obrazovky a upoutávky!</string>
+    <string name="sw_is_bug_title">Nahlášení chyb</string>
+    <string name="sw_is_bug_summary">Můžete nahlásit chyby ze strany zdroje/ROM na našem Telegram chatu @ProjectRadiantChat nezapomeňte doložit logcat!</string>
+    <string name="sw_is_tr_title">Překlady</string>
+    <string name="sw_is_tr_summary">Můžete nám pomoci s lokalizací překládáním vět do vašeho jazyka na crowdin odkaze v poznámkách našeho chatu.</string>
+    <string name="sw_is_help_title">Potřebujeme i tebe!</string>
+    <string name="sw_is_help_summary">Nepřijímáme peněžní dary, většina z nás jsou studenti a proto potřebujeme víc lidí. Můžete pomáhat lidem u nás v chatu a nebo se k nám dokonce připojit a udržovat a vyvíjet naši ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Jak by jste se rádi pohybovali po systému?</string>
+    <string name="sw_ng_gestures">Gesta</string>
+    <string name="sw_ng_three">3 tlačítka</string>
+    <string name="sw_ng_gtut_title">Tutorial pro gesta</string>
+    <string name="sw_ng_gtut_summary">Začněte a tutorialem pro navigační gesta po této aktivitě</string>
+</resources>

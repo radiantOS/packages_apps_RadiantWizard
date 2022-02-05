@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Berikutnya</string>
+    <string name="back">Kembali</string>
+    <string name="skip">Lewati</string>
+    <string name="finish">Selesaikan penyiapan</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Selamat datang di Radiant</string>
+    <string name="sw_f_start">Mulai</string>
+    <string name="sw_f_emerg">Panggilan darurat</string>
+    <string name="sw_f_acces">Setelan tampilan</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Selamat datang di Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant adalah ROM kustom yang menggunakan HarmonyOS Sans Font, Kami senang Anda bersama kami. Anda dapat mengubah bahasa atau mengonfigurasi opsi aksesibilitas melalui ikon di atas. Berikut adalah beberapa poin yang ingin kami informasikan kepada Anda: </string>
+    <string name="sw_is_tg_summary">Anda dapat bergabung dengan saluran Telegram kami @ProjectRadiant untuk ROM dan postingan pembaruan build bersama tangkapan layar dan penggoda!</string>
+    <string name="sw_is_bug_title">Laporan bug</string>
+    <string name="sw_is_bug_summary">Anda dapat melaporkan bug dari sumber/ROM di obrolan ROM kami di @ProjectRadiantChat, pastikan untuk melampirkan logcat!</string>
+    <string name="sw_is_tr_title">Terjemahan</string>
+    <string name="sw_is_tr_summary">Anda dapat membantu kami dengan pelokalan dengan memeriksa tautan crowdin di catatan obrolan kami dan menerjemahkan string dalam bahasa Anda.</string>
+    <string name="sw_is_help_title">Kami membutuhkanmu!</string>
+    <string name="sw_is_help_summary">Kami tidak menerima sumbangan, sebagian besar dari kami masih bersekolah, itulah sebabnya kami membutuhkan lebih banyak orang. Anda dapat membantu orang dengan masalah dalam obrolan kami atau bahkan bergabung dengan kami untuk memelihara atau mengembangkan ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Bagaimana Anda ingin berkeliling?</string>
+    <string name="sw_ng_gestures">Gestur</string>
+    <string name="sw_ng_three">3 tombol</string>
+    <string name="sw_ng_gtut_title">Tutorial gestur</string>
+    <string name="sw_ng_gtut_summary">Mulai tutorial untuk gestur navigasi setelah aktivitas ini</string>
+</resources>

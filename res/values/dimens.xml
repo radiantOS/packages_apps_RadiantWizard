@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rdnt_sw_mp_padding">20dp</dimen>
+    <dimen name="rdnt_sw_hero_marginvertical">20dp</dimen>
+    <dimen name="v_2">20dp</dimen>
+    <dimen name="v_1">10dp</dimen>
+    <dimen name="settingslib_preferred_minimum_touch_target">70dp</dimen>    
+</resources>

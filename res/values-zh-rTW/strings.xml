@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">下一步</string>
+    <string name="back">返回</string>
+    <string name="skip">略過</string>
+    <string name="finish">完成設定精靈</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">歡迎使用 Radiant</string>
+    <string name="sw_f_start">開始</string>
+    <string name="sw_f_emerg">緊急通話</string>
+    <string name="sw_f_acces">顯示設定</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">歡迎使用 Radiant！</string>
+    <string name="sw_is_top_summary">Project Radiant 是一款使用了 HarmonyOS Sans 字體的第三方系統，很高興您能使用這款系統。您可以使用上方的按鈕來更改語言以及無障礙設定。以下為我們想告訴您的幾點事項： </string>
+    <string name="sw_is_tg_summary">您可以加入我們的Telegram頻道 @ProjectRadiant 來取得有關Project Radiant各項更新的第一手消息！</string>
+    <string name="sw_is_bug_title">回報錯誤</string>
+    <string name="sw_is_bug_summary">您可以在我們的聊天室 @ProjectRadiantChat 回報在源碼或系統中的錯誤，回報時請務必附上記錄檔！</string>
+    <string name="sw_is_tr_title">翻譯</string>
+    <string name="sw_is_tr_summary">您可以透過我們聊天室中的Crowdin連結來協助我們將Radiant翻譯您所使用的語言。</string>
+    <string name="sw_is_help_title">我們需要您！</string>
+    <string name="sw_is_help_summary">我們不接受捐款。大部分的開發者都還是學生，而這就是為什麼我們需要更多人的協助。您可以在我們的聊天室中協助他人解決問題，甚至是加入我們的行列來進行開發或維護的工作。</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">您喜歡哪種操控裝置的方式呢？</string>
+    <string name="sw_ng_gestures">手勢</string>
+    <string name="sw_ng_three">三個虛擬導航鍵</string>
+    <string name="sw_ng_gtut_title">手勢教學</string>
+    <string name="sw_ng_gtut_summary">在此設定完成後開始手勢操作的教學</string>
+</resources>

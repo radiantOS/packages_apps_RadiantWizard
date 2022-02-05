@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Avanti</string>
+    <string name="back">Indietro</string>
+    <string name="skip">Salta</string>
+    <string name="finish">Termina configurazione</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Benvenuto in Radiant</string>
+    <string name="sw_f_start">Inizia</string>
+    <string name="sw_f_emerg">Chiamata di emergenza</string>
+    <string name="sw_f_acces">Impostazioni visive</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Benvenuto in Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant è una custom ROM che utilizza il font HarmonyOS Sans, siamo lieti di averti con noi. Puoi cambiare lingua o configurare le opzioni di accessibilità con le icone sopra. Ecco alcuni punti di cui vorremmo informarti: </string>
+    <string name="sw_is_tg_summary">Puoi unirti al nostro canale Telegram @ProjectRadiant per aggiornamenti su ROM e build oltre a screenshot e anteprime!</string>
+    <string name="sw_is_bug_title">Segnala bug</string>
+    <string name="sw_is_bug_summary">Puoi segnalare i bug della ROM nella nostra chat @ProjectRadiantChat, assicurati di allegare i logcat!</string>
+    <string name="sw_is_tr_title">Traduzioni</string>
+    <string name="sw_is_tr_summary">Puoi aiutarci con la localizzazione dal link Crowdin nelle note della nostra chat e tradurre le stringhe nella tua lingua.</string>
+    <string name="sw_is_help_title">Abbiamo bisogno di te!</string>
+    <string name="sw_is_help_summary">Non accettiamo donazioni, molti di noi vanno ancora a scuola e per questo abbiamo bisogno di altre persone. Puoi aiutare chi ha problemi nella chat o unirti a noi per mantenere o sviluppare la ROM.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Come vuoi navigare?</string>
+    <string name="sw_ng_gestures">Gesti</string>
+    <string name="sw_ng_three">3 pulsanti</string>
+    <string name="sw_ng_gtut_title">Tutorial gesti</string>
+    <string name="sw_ng_gtut_summary">Inizia un tutorial per la navigazione con i gesti dopo questa schermata</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">İleri</string>
+    <string name="back">Geri</string>
+    <string name="skip">Atla</string>
+    <string name="finish">Sihirbazı bitir</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Radiant\'a Hoş Geldiniz</string>
+    <string name="sw_f_start">Başla</string>
+    <string name="sw_f_emerg">Acil durum çağrısı</string>
+    <string name="sw_f_acces">Görüş ayarları</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Radiant\'a Hoş geldiniz!</string>
+    <string name="sw_is_top_summary">Project Radiant, HarmonyOS Sans Font kullanan özel bir ROM\'dur, Aramızda olmanızdan mutluluk duyuyoruz. Yukarıdaki simgeler aracılığıyla dili değiştirebilir veya erişilebilirlik seçeneklerini yapılandırabilirsiniz. İşte sizi bilgilendirmek istediğimiz bazı noktalar: </string>
+    <string name="sw_is_tg_summary">ROM hakkında güncelleme gönderileri almak, ön gösterimler ve ekran fotoğrafları görmek için Telegram kanalımıza @ProjectRadiant katılabilirsiniz!</string>
+    <string name="sw_is_bug_title">Hata raporları</string>
+    <string name="sw_is_bug_summary">\@ProjectRadiantChat kanalına Kaynak/ROM hatalarını  raporlayabilirsiniz. Log kayıtları eklemeyi unutmayın!</string>
+    <string name="sw_is_tr_title">Çeviriler</string>
+    <string name="sw_is_tr_summary">Sohbetimizin notlarındaki crowdin bağlantısını kontrol ederek ve dizeleri kendi dilinize çevirerek bize yerelleştirme konusunda yardımcı olabilirsiniz.</string>
+    <string name="sw_is_help_title">Sana ihtiyacımız var!</string>
+    <string name="sw_is_help_summary">Bağış almıyoruz, çoğumuz hala okuldayız, bu yüzden daha fazla insana ihtiyacımız var. Sohbetlerimizde sorunları olan kişilere yardımcı olabilir, hatta ROM\'u sürdürmek veya geliştirmek için bize katılabilirsiniz.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Nasıl gezinmek istersiniz?</string>
+    <string name="sw_ng_gestures">Hareketler</string>
+    <string name="sw_ng_three">3 buton</string>
+    <string name="sw_ng_gtut_title">Hareket eğitimi</string>
+    <string name="sw_ng_gtut_summary">Bu durumdan sonra gezinme hareketleri için bir eğitici başlatın</string>
+</resources>

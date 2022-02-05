@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">Вперед</string>
+    <string name="back">Назад</string>
+    <string name="skip">Пропустити</string>
+    <string name="finish">Завершити налаштування</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">Ласкаво просимо в Radiant</string>
+    <string name="sw_f_start">Почати</string>
+    <string name="sw_f_emerg">Екстрений виклик</string>
+    <string name="sw_f_acces">Налаштування бачення</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">Ласкаво просимо в Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant — кастомна прошивка, яка використовує шрифт HarmonyOS Sans, раді, що Ви з нами. Ви можете змінити мову або налаштувати параметри доступності за допомогою іконок вище. Ось декілька речей, про які ми б хотіли повідомити Вам: </string>
+    <string name="sw_is_tg_summary">Ви можете приєднатися до нашого Telegram-каналу @ProjectRadiant, щоб отримувати новини про ROM та її оновлення разом зі скріншотами та тизерами!</string>
+    <string name="sw_is_bug_title">Повідомлення про помилки</string>
+    <string name="sw_is_bug_summary">Ви можете повідомити про баги в нашому чаті @ProjectRadiantChat, не забудьте прикріпити логи!</string>
+    <string name="sw_is_tr_title">Переклади</string>
+    <string name="sw_is_tr_summary">Ви можете допомогти нам із перекладом, перейшовши по посиланню у примітках нашого чату та переклавши рядки Вашою мовою.</string>
+    <string name="sw_is_help_title">Ви важливі для нас!</string>
+    <string name="sw_is_help_summary">Ми не беремо пожертвувань, більшість із нас ще вчяться у школі, тому нам потрібно більше людей. Ви можете допомогти людям із проблемами в наших чатах або навіть приєднатися до нас, щоб підтримувати чи розвивати Project Radiant.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">Якому типу навігації ви віддаєте перевагу?</string>
+    <string name="sw_ng_gestures">Жести</string>
+    <string name="sw_ng_three">3 кнопки</string>
+    <string name="sw_ng_gtut_title">Навчання жестам</string>
+    <string name="sw_ng_gtut_summary">Почати навчання із жестів навігації після цього екрану</string>
+</resources>

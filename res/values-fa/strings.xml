@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">بعدی</string>
+    <string name="back">برگشت</string>
+    <string name="skip">رد کردن</string>
+    <string name="finish">اتمام ستاپ</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">به Radiant خوش اومدی</string>
+    <string name="sw_f_start">شروع</string>
+    <string name="sw_f_emerg">تماس اضطراری</string>
+    <string name="sw_f_acces">تنظیمات دسترسی</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">به Radiant خوش اومدی!</string>
+    <string name="sw_is_top_summary">پروژه Radiant کاستوم رامی با پشتیبانی از فونت HarmonyOS Sans هست، ما خوشحالیم که تو رو همراه خودمون داریم. تو میتونی زبان یا آپشن‌های دسترسی رو با آیکون‌های بالا تعویض کنی. این‌ها نکته‌هایی هست که ما میخوایم تو رو ازش مطلع کنیم: </string>
+    <string name="sw_is_tg_summary">تو میتونی در چنل تلگرام با آیدی @ProjectRadiant از اخبار این رام و آخرین آپدیت باخبر بشی و اسکرین‌شات ها و تیزرها رو ببینی!</string>
+    <string name="sw_is_bug_title">گزارش باگ ها</string>
+    <string name="sw_is_bug_summary">میتونی همه‌ی باگ‌هایی که مربوط به سورس/رام هست رو در گروه تلگرام با آیدی @ProjectRadiantChat گزارش بدی، یادت باشه که حتما با logcat این کارو انجام بدی!</string>
+    <string name="sw_is_tr_title">ترجمه‌ها</string>
+    <string name="sw_is_tr_summary">با استفاده از لینک crowdin تو گروه میتونی تو ترجمه به ما کمک کنی و کلمات رو به زبان خودت ترجمه کنی.</string>
+    <string name="sw_is_help_title">ما بهت نیاز داریم!</string>
+    <string name="sw_is_help_summary">ما دونیت لازم نداریم، اکثر ما هنوز تو مدرسه هستیم و به همین دلیل به مردم بیشتری احتیاج داریم. تو میتونی با کمک کردن به مردم تو گروه یا حتی به ما پیوستن برای توسعه به ما کمک کنی.</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">نظرت چیه با محیط آشنا بشی?</string>
+    <string name="sw_ng_gestures">ژست‌های حرکتی</string>
+    <string name="sw_ng_three">حالت سه دکمه</string>
+    <string name="sw_ng_gtut_title">آموزش ژست‌های حرکتی</string>
+    <string name="sw_ng_gtut_summary">بعد این کار، آموزش ژست‌های حرکتی رو شروع کن</string>
+</resources>

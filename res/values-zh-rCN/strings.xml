@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="next">下一步</string>
+    <string name="back">返回</string>
+    <string name="skip">跳过</string>
+    <string name="finish">完成向导</string>
+    <!-- Welcome and First-->
+    <string name="sw_f_greet">欢迎来到 Radiant!</string>
+    <string name="sw_f_start">开始</string>
+    <string name="sw_f_emerg">紧急通话</string>
+    <string name="sw_f_acces">视觉设置</string>
+    <!-- Info screen -->
+    <string name="sw_is_top_title">欢迎来到 Radiant!</string>
+    <string name="sw_is_top_summary">Project Radiant 是使用 Harmony Sans 字体的自定义ROM，我们很高兴与您在一起。 您可以通过上面的图标更改语言或配置辅助功能选项。 以下是我们希望通知您的一些要点: </string>
+    <string name="sw_is_tg_summary">您可以加入我们的 Telegram 频道 @ProjectRadiant 以获取 ROM ，并获取ROM截图和构建更新！</string>
+    <string name="sw_is_bug_title">报告Bug</string>
+    <string name="sw_is_bug_summary">您可以在@ProjectRadiantChat 的 ROM 群组中报告源代码/ROM 方面的错误，请确保附上 logcats！</string>
+    <string name="sw_is_tr_title">翻译</string>
+    <string name="sw_is_tr_summary">您可以通过查看我们聊天记录中的Crowdin链接并给此ROM适配你的语言</string>
+    <string name="sw_is_help_title">我们真的真的真的需要你！</string>
+    <string name="sw_is_help_summary">我们不接受捐赠，我们大多数人还在上学，这就是我们需要更多人的原因。 您可以在我们的群组中帮助有问题的人，甚至可以加入我们来维护或开发 ROM。</string>
+    <!-- Navigation gestures -->
+    <string name="sw_ng_top_title">你想使用哪一种？</string>
+    <string name="sw_ng_gestures">手势</string>
+    <string name="sw_ng_three">三键式</string>
+    <string name="sw_ng_gtut_title">手势使用教程</string>
+    <string name="sw_ng_gtut_summary">在此活动后开始手势使用教程</string>
+</resources>
